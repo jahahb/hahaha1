@@ -21,7 +21,7 @@
 ### 重要坐标
 - 🏠 **住址**: [羊村]<a href= "H:\github\6.jpg" >青青草原</a >
 
-- 🏢 **工作单位**: [羊村保卫队]<a href=https://baike.baidu.com/item/羊村/70871>羊村</a >
+- 🏢 **工作单位**: [羊村保卫队]<a href="H:\github\photo\1.webp">羊村</a >
 
 ### 日常作息表
 | 时间       | 事项                  |
