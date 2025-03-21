@@ -1,6 +1,6 @@
 # 喜羊羊的自我介绍
 
-<img src="H:\github\2.png" alt="喜羊羊形象" width = "200"> 
+<img src="https://github.com/jahahb/hahaha1/blob/main/photo/2.png" alt="喜羊羊形象" width = "200"> 
 
 大家好，我是**喜羊羊**，我的身份是*羊村的小英雄*。以下是我的自我介绍：
 
@@ -19,9 +19,9 @@
 4. ~~灰太狼~~
 
 ### 重要坐标
-- 🏠 **住址**: [羊村]<a href= "H:\github\6.jpg" >青青草原</a >
+- 🏠 **住址**: [羊村]<a href=https://github.com/jahahb/hahaha1/blob/main/photo/6.jpg >青青草原</a >
 
-- 🏢 **工作单位**: [羊村保卫队]<a href="H:\github\photo\1.webp">羊村</a >
+- 🏢 **工作单位**: [羊村保卫队]<a href=https://github.com/jahahb/hahaha1/blob/main/photo/1.webp>羊村</a >
 
 ### 日常作息表
 | 时间       | 事项                  |
@@ -45,7 +45,7 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-<img src="H:\github\4.png" alt="截图一">
+<img src=https://github.com/jahahb/hahaha1/blob/main/photo/4.png alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="H:\github\4.png" alt="截图二">
+<img src=https://github.com/jahahb/hahaha1/blob/main/photo/4.png alt="截图二">
